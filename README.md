@@ -61,7 +61,7 @@ O layout inicial (`tela_principal.xml`) contém:
 
 ---
 
-## 🧰 Estrutura XML
+## 🧰 Estrutura XML 2
 
 O layout cadastro (`cadastro_de_usuarios.xml`) contém:
 - 3 Plains Text (um para nome, telefone e endereco)
@@ -70,7 +70,7 @@ O layout cadastro (`cadastro_de_usuarios.xml`) contém:
 
 ---
 
-## 🧰 Estrutura XML
+## 🧰 Estrutura XML 3
 
 O layout consulta (`listagem_usuarios_cadastrados.xml`) contém:
 - Tabelas (que irão sendo adicionadas conforme os usuários são cadastrados)
