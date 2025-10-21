@@ -59,6 +59,12 @@ O layout inicial (`tela_principal.xml`) contém:
 - 2 botões (um para cadastrar um usuario e outro para consultar)
 - 1 TextView
 
+## 📸 Demonstração
+
+### Tela Principal
+
+![Figura 1:](/img/img.png)
+
 ---
 
 ## 🧰 Estrutura XML 2
@@ -68,6 +74,12 @@ O layout cadastro (`cadastro_de_usuarios.xml`) contém:
 - 1 TextView
 - 2 Botões (um para registrar e outro para cancelar o registro)
 
+## 📸 Demonstração 2
+
+### Tela Cadastro
+
+![Figura 1: Exemplo da tela inicial do aplicativo](/img/img2.png)
+
 ---
 
 ## 🧰 Estrutura XML 3
@@ -75,6 +87,12 @@ O layout cadastro (`cadastro_de_usuarios.xml`) contém:
 O layout consulta (`listagem_usuarios_cadastrados.xml`) contém:
 - Tabelas (que irão sendo adicionadas conforme os usuários são cadastrados)
 - Observação: As tabelas exibem os dados do usuário, como nome, telefone e endereço.
+
+## 📸 Demonstração
+
+### Tela Listagem 3
+
+![Figura 1:](/img/img3.png)
 
 ---
 
